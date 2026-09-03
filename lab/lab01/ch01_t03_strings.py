@@ -1,2 +1,2 @@
-print("Hello"+Huang )
+print("Hello"+Huang)
 print
