@@ -1,3 +1,3 @@
-import datetime
+import datetime 
 
-remainder = 1398 % 11 
+todays_date = f
