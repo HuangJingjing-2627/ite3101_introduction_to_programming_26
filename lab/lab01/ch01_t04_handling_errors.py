@@ -1,1 +1,3 @@
-import datet= f"{datetime.datetime.now():%d/%m/%Y}"
+import datetime
+
+= f"{datetime.datetime.now():%d/%m/%Y}"
