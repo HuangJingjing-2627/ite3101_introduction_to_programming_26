@@ -1,3 +1,3 @@
 import datetime
 
-todays_date = f"{datetime.datetime.now():%d/%m/%Y}"
+todays_dat(variable) todays_date: stre = f"{datetime.datetime.now():%d/%m/%Y}"
