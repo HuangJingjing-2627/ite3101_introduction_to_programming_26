@@ -1,2 +1,3 @@
-product = 2*3 
+import datetime
+
 remainder = 1398 % 11 
