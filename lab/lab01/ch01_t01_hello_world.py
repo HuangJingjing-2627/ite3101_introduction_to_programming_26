@@ -1,1 +1,1 @@
-print("Hello" + "Huang Jingjing")
+print("Hello" + "Jingjing")
