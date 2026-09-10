@@ -2,4 +2,4 @@ import unittest
 from tests.unit_test_helper.console_tset_helper import *
 
 
-class Test0ut
+class Test0utput(unitte)
