@@ -12,4 +12,5 @@ class Test0utput(unittest.TestCase):
         self.assertAlmostEqual(3.25, temp_locals{'total_cost'})
 
 
-if __name__ == '__main__'
+if __name__ == '__main__':
+    
