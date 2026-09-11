@@ -6,4 +6,4 @@ class Test0utput(unittest.TestCase):
 
     def test(self):
         temp_globals, temp_locals, content, output = execfile("lab01/ch01_t09_numbers.py")
-        
+        print(temp_locals)
