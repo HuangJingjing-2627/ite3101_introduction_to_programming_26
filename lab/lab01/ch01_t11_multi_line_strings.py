@@ -1,0 +1,1 @@
+haiku = """The old pond,
