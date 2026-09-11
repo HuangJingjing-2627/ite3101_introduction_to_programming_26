@@ -9,4 +9,4 @@ class Test0utput(unittest.TestCase):
         print(temp_locals)
         self.assertAlmostEqual(1, temp_locals{'cucumbers'})
         self.assertAlmostEqual(3.25, temp_locals{'price_per_cucumber'})
-        self.assertAlmostEqual(3.25, temp_locals{})
+        self.assertAlmostEqual(3.25, temp_locals{'total_cost'})
