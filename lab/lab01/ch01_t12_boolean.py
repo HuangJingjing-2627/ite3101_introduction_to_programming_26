@@ -3,4 +3,4 @@
 # I'm 21 years old and I plan to program cool stuff forever.
 
 
-age_is_12 = Falsename_is_maria
+age_is_12 = Falsename_is_maria = True
