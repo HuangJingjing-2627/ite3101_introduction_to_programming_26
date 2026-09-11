@@ -13,4 +13,4 @@ class Test0utput(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unit
+    unittest.main()
