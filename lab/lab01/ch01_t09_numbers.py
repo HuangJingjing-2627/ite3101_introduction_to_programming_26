@@ -5,4 +5,4 @@ from tests.unit_test_helper.console_tset_helper import *
 class Test0utput(unittest.TestCase):
 
     def test(self):
-        temp_globals, temp_locals, content, output = execfile
+        temp_globals, temp_locals, content, output = execfile("")
