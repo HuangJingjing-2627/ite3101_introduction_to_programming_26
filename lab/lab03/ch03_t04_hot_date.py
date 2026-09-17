@@ -2,4 +2,4 @@ from datetime import datetime
 
 now = datetime.now()
 
-print(""5())
+print(""%02d/%02d())
