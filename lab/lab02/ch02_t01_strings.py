@@ -1,1 +1,1 @@
-("Hello, life!")
+("Hello life!")
