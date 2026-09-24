@@ -1,4 +1,4 @@
-bool_one = F
+bool_one = False
 
 bool_two = True
 
