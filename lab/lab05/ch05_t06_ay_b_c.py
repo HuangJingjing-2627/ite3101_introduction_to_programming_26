@@ -1,1 +1,1 @@
-ptg = "ay"
+pyg = "ay"
