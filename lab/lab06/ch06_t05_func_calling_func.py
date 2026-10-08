@@ -3,4 +3,4 @@ def one_good_turn(n: int):
 
 
 def deserves_another(n: int):
-    return + 2
+    return one+ 2
