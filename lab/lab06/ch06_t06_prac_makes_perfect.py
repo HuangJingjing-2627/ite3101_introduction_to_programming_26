@@ -3,4 +3,6 @@ def cube(number: int) -> int:
 
 def cube(number: int) -> int:
     if number % 3 ==0:
-        ret
+        return cube(number)
+    else:
+        return F
