@@ -2,4 +2,4 @@
 
 from math import *
 
-pi
+print(sqrt(25))
