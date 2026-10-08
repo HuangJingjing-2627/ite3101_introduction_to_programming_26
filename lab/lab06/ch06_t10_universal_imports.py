@@ -1,3 +1,5 @@
 # Import *everything* from the math module on line 3!
 
-print
+from math import *
+
+pi
