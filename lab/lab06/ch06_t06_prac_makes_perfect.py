@@ -1,2 +1,6 @@
 def cube(number: int) -> int:
-    ret
+    return number * number * number 
+
+def cube(number: int) -> int:
+    if number % 3 ==0:
+        r
