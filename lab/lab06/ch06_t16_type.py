@@ -2,4 +2,4 @@
 # and a string on separate lines below.
 print(type(1))
 print(type(1.1))
-print(type"hi"))
+print(type("hi"))
