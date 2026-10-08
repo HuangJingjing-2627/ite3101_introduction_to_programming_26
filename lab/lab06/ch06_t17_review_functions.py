@@ -3,3 +3,5 @@ def shut_down(s:ster)->str:
         return "Shutting down"
     if s=="no":
         return "Shutdown aborted"
+    else:
+        reti
