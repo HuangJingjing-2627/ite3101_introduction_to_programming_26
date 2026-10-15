@@ -22,4 +22,4 @@ def rental_car_cost(days: int) -> int:
     return cost
 
 def trip_cost(city:str, days:int) -> int:
-    return ren_car_cost(days) 
+    return ren_car_cost(days) + hotel_cost(days - 1) + plane_rise
