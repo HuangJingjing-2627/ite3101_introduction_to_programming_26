@@ -6,4 +6,4 @@ from typing import List
 def fizz_count(words:List[str])->int:
     count = 0
     for word in words:
-        if word in words
+        if word in words:
