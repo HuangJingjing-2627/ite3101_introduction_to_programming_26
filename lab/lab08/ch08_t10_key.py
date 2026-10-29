@@ -5,4 +5,4 @@ print(residents['Puffin'])  # Prints Puffin's room number
 
 # Your code here!
 print(resident['sloth'])
-print(resident['Burmese '])
+print(resident['Burmese Python'])
