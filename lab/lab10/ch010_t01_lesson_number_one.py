@@ -9,7 +9,7 @@ alice = {
     "name": "Alice",
     "homework": [],
     "quizzes": [],
-    "tests": [89.0, 97.0]
+    "tests": [0]
 }
 
 tyler = {
