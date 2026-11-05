@@ -16,5 +16,5 @@ tyler = {
     "name": "Tyler",
     "homework": [],
     "quizzes": [],
-    "tests": [100.0, 100.0]
+    "tests": []
 }
