@@ -15,6 +15,6 @@ alice = {
 tyler = {
     "name": "Tyler",
     "homework": [],
-    "quizzes": [0.0, 75.0, 78.0],
+    "quizzes": [],
     "tests": [100.0, 100.0]
 }
