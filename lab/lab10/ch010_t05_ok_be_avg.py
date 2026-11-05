@@ -19,4 +19,4 @@ tyler = {
 
 # Add your function below!
 def average(numbers: list[float]) -> float:
-    total = 
+    total = sum(numbers)
