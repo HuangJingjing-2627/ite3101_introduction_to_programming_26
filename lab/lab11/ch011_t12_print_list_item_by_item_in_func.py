@@ -9,5 +9,4 @@ def print_list(x:List[int]) -> None:
         print(x[i])
 
 
-for i in
-    print(n[i])
+print_
