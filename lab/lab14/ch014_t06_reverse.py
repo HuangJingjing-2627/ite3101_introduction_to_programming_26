@@ -1,1 +1,2 @@
-def reverse(text:str)
+def reverse(text:str)->str:
+    word = ""
