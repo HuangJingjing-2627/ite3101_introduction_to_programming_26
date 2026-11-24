@@ -1,7 +1,7 @@
-n = [3, 5, 7]
+from typing import 
 # Add your function here
 
-
+n = [3, 5, 7]
 # print(list_extender(n))
 
 def list_extender(l:List[int])->List[int]:
@@ -9,3 +9,4 @@ def list_extender(l:List[int])->List[int]:
     return l
 
 print(list_extender(n))
+print(n)
