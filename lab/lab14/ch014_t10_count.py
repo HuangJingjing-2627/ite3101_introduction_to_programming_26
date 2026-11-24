@@ -2,4 +2,5 @@
 from typing import List
 
 
-def count(sequence: List[int], item:int)
+def count(sequence: List[int], item:int)->int:
+    
