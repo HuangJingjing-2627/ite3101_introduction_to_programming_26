@@ -1,5 +1,5 @@
 from typing import List
-form typing import result
+from typing import result
 
 
 def product(seq: List[int])->int:
