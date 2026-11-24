@@ -7,4 +7,4 @@ guesses_left = 3
 # Start your game!
 while guesses_left > 0:
     guess = input("Your guess: ")
-    guesses_left -=
+    guesses_left -= 1
