@@ -7,4 +7,4 @@ def count(sequence: List[int], item:int)->int:
     for i in sequence:
         if i == item:
             result +=1
-        
+    result 
