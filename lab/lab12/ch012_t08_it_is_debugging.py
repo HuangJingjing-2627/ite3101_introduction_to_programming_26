@@ -25,5 +25,6 @@ ship_col = random_col(board)
 # Add your code below!
 
 
+
 guess_row = int(input("Guess Row: "))
 guess_col = int(input("Guess Col: "))
